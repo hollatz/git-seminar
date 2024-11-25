@@ -1,2 +1,2 @@
 # git-seminar
-first change in file
+This is the README file.
